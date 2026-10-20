@@ -1,0 +1,3635 @@
+﻿{
+    "id":  "flyabc_8b",
+    "flyabcId":  "8b",
+    "title":  "人教版初中英语 · 八年级下册",
+    "shortName":  "八年级下册",
+    "stage":  "junior",
+    "grade":  8,
+    "edition":  "2024",
+    "unitCount":  8,
+    "wordCount":  593,
+    "units":  [
+                  {
+                      "id":  "u1",
+                      "unitNumber":  1,
+                      "title":  "Unit 1 Time to Relax",
+                      "wordCount":  59,
+                      "words":  [
+                                    {
+                                        "en":  "calligraphy",
+                                        "zh":  "书法",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "ski",
+                                        "zh":  "滑雪",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "program",
+                                        "zh":  "编程；程序",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "express",
+                                        "zh":  "表达",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "ice skating",
+                                        "zh":  "滑冰",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "instructor",
+                                        "zh":  "教练",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "give up",
+                                        "zh":  "放弃",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "scared",
+                                        "zh":  "害怕的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "scared of",
+                                        "zh":  "害怕",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "fear",
+                                        "zh":  "恐惧；害怕",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "get over",
+                                        "zh":  "克服",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "up to",
+                                        "zh":  "正在做；由……决定",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "poem",
+                                        "zh":  "诗",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "single",
+                                        "zh":  "单个的；单身的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "stroke",
+                                        "zh":  "笔画；击球",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "ink",
+                                        "zh":  "墨水",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "return",
+                                        "zh":  "回来；归还",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "in return",
+                                        "zh":  "作为回报",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "deal",
+                                        "zh":  "交易；对付",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "manage",
+                                        "zh":  "设法做成；管理",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "ice-skate",
+                                        "zh":  "滑冰",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "get into",
+                                        "zh":  "进入；开始做",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "give it a go",
+                                        "zh":  "试一试",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "kung fu",
+                                        "zh":  "功夫",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "push",
+                                        "zh":  "推；鞭策",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "once in a while",
+                                        "zh":  "偶尔",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "chat",
+                                        "zh":  "闲聊",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "outing",
+                                        "zh":  "远足；出游",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "go on an outing",
+                                        "zh":  "出去游玩",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "reduce",
+                                        "zh":  "减少",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "stress",
+                                        "zh":  "压力",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "yoga",
+                                        "zh":  "瑜伽",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "object",
+                                        "zh":  "物体；宾语",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "Italian",
+                                        "zh":  "意大利的；意大利人",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "programmer",
+                                        "zh":  "程序员",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "allow",
+                                        "zh":  "允许",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "achievement",
+                                        "zh":  "成就",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "coin",
+                                        "zh":  "硬币",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "stamp",
+                                        "zh":  "邮票",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "teenage",
+                                        "zh":  "青少年的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "postcard",
+                                        "zh":  "明信片",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "rather",
+                                        "zh":  "相当；更确切地说",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "old-fashioned",
+                                        "zh":  "过时的；守旧的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "foreign",
+                                        "zh":  "外国的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "dream of",
+                                        "zh":  "梦想",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "suggestion",
+                                        "zh":  "建议",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "failure",
+                                        "zh":  "失败",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "inspiration",
+                                        "zh":  "灵感；启发",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "strict",
+                                        "zh":  "严厉的；严格的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "surprisingly",
+                                        "zh":  "出人意料地",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "so far",
+                                        "zh":  "到目前为止",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "stage",
+                                        "zh":  "舞台；阶段",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "importantly",
+                                        "zh":  "重要地",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "Luca",
+                                        "zh":  "卢卡",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Bruno",
+                                        "zh":  "布鲁诺",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "India",
+                                        "zh":  "印度",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Maya",
+                                        "zh":  "马娅",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Badal",
+                                        "zh":  "巴达尔",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Mogao Caves",
+                                        "zh":  "莫高窟",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "u2",
+                      "unitNumber":  2,
+                      "title":  "Unit 2 Stay Healthy",
+                      "wordCount":  85,
+                      "words":  [
+                                    {
+                                        "en":  "ourselves",
+                                        "zh":  "我们自己",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "sore",
+                                        "zh":  "酸痛的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "throat",
+                                        "zh":  "喉咙",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "stomachache",
+                                        "zh":  "胃痛；肚子疼",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "headache",
+                                        "zh":  "头痛",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "toothache",
+                                        "zh":  "牙痛",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "backache",
+                                        "zh":  "背痛；腰痛",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "suffer",
+                                        "zh":  "遭受；受苦",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "suffer from",
+                                        "zh":  "患；遭受",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "press",
+                                        "zh":  "按；压",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "nosebleed",
+                                        "zh":  "流鼻血",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "dentist",
+                                        "zh":  "牙医",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "fever",
+                                        "zh":  "发烧",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "stomach",
+                                        "zh":  "胃",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "avoid",
+                                        "zh":  "避免；防止",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "gas",
+                                        "zh":  "气体；燃气",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "ache",
+                                        "zh":  "疼痛",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "X-ray",
+                                        "zh":  "X光检查",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "careless",
+                                        "zh":  "粗心的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "runny",
+                                        "zh":  "流鼻涕的；流眼泪的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "cough",
+                                        "zh":  "咳嗽",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "bruised",
+                                        "zh":  "有瘀伤的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "take a seat",
+                                        "zh":  "坐下",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "test",
+                                        "zh":  "检查；测验",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "flu",
+                                        "zh":  "流感",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "medicine",
+                                        "zh":  "药；医学",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "mask",
+                                        "zh":  "口罩",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "virus",
+                                        "zh":  "病毒",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "description",
+                                        "zh":  "描述",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "patient",
+                                        "zh":  "病人；有耐心的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "injury",
+                                        "zh":  "伤害",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "illness",
+                                        "zh":  "疾病",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "knife",
+                                        "zh":  "刀",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "safety",
+                                        "zh":  "安全",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "clear",
+                                        "zh":  "清楚的；清理",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "pain",
+                                        "zh":  "疼痛；痛苦",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "what\u0027s more",
+                                        "zh":  "更重要的是",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "brightness",
+                                        "zh":  "亮度",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "environment",
+                                        "zh":  "环境",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "cross",
+                                        "zh":  "穿过；交叉",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "catch fire",
+                                        "zh":  "着火",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "themselves",
+                                        "zh":  "他们自己",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "fry",
+                                        "zh":  "油炸；煎",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "turn on",
+                                        "zh":  "打开",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "stove",
+                                        "zh":  "炉灶",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "happily",
+                                        "zh":  "快乐地；高兴地",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "no way",
+                                        "zh":  "不可能；没门",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "burn",
+                                        "zh":  "燃烧；烧伤",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "on fire",
+                                        "zh":  "着火",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "flame",
+                                        "zh":  "火焰",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "panic",
+                                        "zh":  "惊慌",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "onto",
+                                        "zh":  "向；到……上",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "throw",
+                                        "zh":  "扔；抛",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "roll",
+                                        "zh":  "翻滚",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "quick",
+                                        "zh":  "快的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "be about to",
+                                        "zh":  "即将；正要",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "stop short",
+                                        "zh":  "突然停住",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "aid",
+                                        "zh":  "帮助",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "first aid",
+                                        "zh":  "急救",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "extinguisher",
+                                        "zh":  "灭火器",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "eat out",
+                                        "zh":  "外出就餐",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "tonight",
+                                        "zh":  "今晚",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "sadly",
+                                        "zh":  "伤心地；遗憾地",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "smoke",
+                                        "zh":  "烟",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "luckily",
+                                        "zh":  "幸运地",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "badly",
+                                        "zh":  "严重地",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "harm",
+                                        "zh":  "伤害",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "pill",
+                                        "zh":  "药丸",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "harmful",
+                                        "zh":  "有害的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "hit",
+                                        "zh":  "打；撞",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "shock",
+                                        "zh":  "震惊",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "bleed",
+                                        "zh":  "流血",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "check",
+                                        "zh":  "检查",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "tight",
+                                        "zh":  "紧的；憋气的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "peanut",
+                                        "zh":  "花生",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "nervously",
+                                        "zh":  "紧张地",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "allergic",
+                                        "zh":  "过敏的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "from now on",
+                                        "zh":  "从现在起",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Ben",
+                                        "zh":  "本",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Nancy",
+                                        "zh":  "南希",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Jeff",
+                                        "zh":  "杰夫",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "James",
+                                        "zh":  "詹姆斯",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Allen",
+                                        "zh":  "艾伦",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Kelly",
+                                        "zh":  "凯莉",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Cooper",
+                                        "zh":  "库珀",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "u3",
+                      "unitNumber":  3,
+                      "title":  "Unit 3 Growing Up",
+                      "wordCount":  77,
+                      "words":  [
+                                    {
+                                        "en":  "deal with",
+                                        "zh":  "处理；对付",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "emotion",
+                                        "zh":  "情绪",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "upset",
+                                        "zh":  "沮丧的；难过的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "lonely",
+                                        "zh":  "孤独的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "shocked",
+                                        "zh":  "震惊的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "advise",
+                                        "zh":  "建议；劝告",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "hurtful",
+                                        "zh":  "伤人的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "control",
+                                        "zh":  "控制",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "anger",
+                                        "zh":  "愤怒",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "in future",
+                                        "zh":  "今后",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "forgive",
+                                        "zh":  "原谅",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "fault",
+                                        "zh":  "过错",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "so that",
+                                        "zh":  "以便；因此",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "clear the air",
+                                        "zh":  "尽释前嫌",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "present",
+                                        "zh":  "礼物；展现",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "standard",
+                                        "zh":  "标准",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "award",
+                                        "zh":  "奖项",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "look on the bright side",
+                                        "zh":  "往好处想",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "get across",
+                                        "zh":  "说清楚；传达",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "clearly",
+                                        "zh":  "清楚地",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "pressure",
+                                        "zh":  "压力",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "purpose",
+                                        "zh":  "目的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "on purpose",
+                                        "zh":  "故意",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "shut",
+                                        "zh":  "关闭；合上",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "lastly",
+                                        "zh":  "最后",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "plenty",
+                                        "zh":  "大量",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "plenty of",
+                                        "zh":  "大量",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "feel blue",
+                                        "zh":  "感到忧郁",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "on top of the world",
+                                        "zh":  "欢天喜地",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "all smiles",
+                                        "zh":  "笑容满面",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "in low spirits",
+                                        "zh":  "情绪低落",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "ring",
+                                        "zh":  "响；打电话",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "enter",
+                                        "zh":  "进入",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "dare",
+                                        "zh":  "敢",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "let down",
+                                        "zh":  "使失望",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "everybody",
+                                        "zh":  "每个人；大家",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "be hard on",
+                                        "zh":  "对……苛刻",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "player",
+                                        "zh":  "选手；运动员",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "referee",
+                                        "zh":  "裁判",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "take back",
+                                        "zh":  "收回",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "decision",
+                                        "zh":  "决定",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "score",
+                                        "zh":  "得分；比分",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "proud",
+                                        "zh":  "自豪的；骄傲的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "proud of",
+                                        "zh":  "为……自豪",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "coach",
+                                        "zh":  "教练",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "as well",
+                                        "zh":  "也",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "bit",
+                                        "zh":  "一点儿",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "a bit",
+                                        "zh":  "一点儿",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "repeat",
+                                        "zh":  "重复",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "pull together",
+                                        "zh":  "齐心协力",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "solution",
+                                        "zh":  "解决办法",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "though",
+                                        "zh":  "虽然",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "even though",
+                                        "zh":  "即使",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "apologize",
+                                        "zh":  "道歉",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "go wrong",
+                                        "zh":  "出错；出故障",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "joyful",
+                                        "zh":  "快乐的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "thankful",
+                                        "zh":  "感激的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "negative",
+                                        "zh":  "消极的；否定的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "bully",
+                                        "zh":  "霸凌；恶霸",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "shout at",
+                                        "zh":  "对……大喊",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "behave",
+                                        "zh":  "表现；举止得体",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "differently",
+                                        "zh":  "不同地",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "physics",
+                                        "zh":  "物理",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "lie",
+                                        "zh":  "平躺",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "awake",
+                                        "zh":  "醒着的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "wake up",
+                                        "zh":  "醒来",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "relaxed",
+                                        "zh":  "放松的；镇定的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "normal",
+                                        "zh":  "正常的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "from time to time",
+                                        "zh":  "偶尔；不时",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "mad",
+                                        "zh":  "生气的；疯狂的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "mean",
+                                        "zh":  "刻薄的；吝啬的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "deep",
+                                        "zh":  "深的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "take a deep breath",
+                                        "zh":  "深呼吸",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "pass away",
+                                        "zh":  "去世",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "anybody",
+                                        "zh":  "任何人",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "remain",
+                                        "zh":  "继续存在；保持不变",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "Thompson",
+                                        "zh":  "汤普森",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "u4",
+                      "unitNumber":  4,
+                      "title":  "Unit 4 The Wonders of Nature",
+                      "wordCount":  82,
+                      "words":  [
+                                    {
+                                        "en":  "wonder",
+                                        "zh":  "奇观；想知道",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "desert",
+                                        "zh":  "沙漠",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "measurement",
+                                        "zh":  "测量；数量",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "square kilometre",
+                                        "zh":  "平方千米",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "below",
+                                        "zh":  "在……下面；低于",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "level",
+                                        "zh":  "水平；高度",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "sea level",
+                                        "zh":  "海平面",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "surface",
+                                        "zh":  "表面",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "depth",
+                                        "zh":  "深度",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "dive",
+                                        "zh":  "潜水；跳水",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "submersible",
+                                        "zh":  "潜水艇",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "unusual",
+                                        "zh":  "不寻常的；特别的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "bottom",
+                                        "zh":  "底部",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "waterfall",
+                                        "zh":  "瀑布",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "civilization",
+                                        "zh":  "文明",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "at all costs",
+                                        "zh":  "不惜一切代价",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "development",
+                                        "zh":  "发展",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "cubic",
+                                        "zh":  "立方的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "cubic metre",
+                                        "zh":  "立方米",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "mile",
+                                        "zh":  "英里",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "pool",
+                                        "zh":  "水池",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "climber",
+                                        "zh":  "登山者",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "northern",
+                                        "zh":  "北部的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "distance",
+                                        "zh":  "距离",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "survive",
+                                        "zh":  "生存",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "condition",
+                                        "zh":  "条件；环境",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "degree",
+                                        "zh":  "度；程度",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "cliff",
+                                        "zh":  "悬崖",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "changeable",
+                                        "zh":  "易变的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "death",
+                                        "zh":  "死亡；毁灭",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "determined",
+                                        "zh":  "坚定的；有决心的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "above",
+                                        "zh":  "在……上方；高于",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "teammate",
+                                        "zh":  "队友",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "shoulder",
+                                        "zh":  "肩膀",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "bit by bit",
+                                        "zh":  "一点一点地",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "ladder",
+                                        "zh":  "梯子",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "measure",
+                                        "zh":  "测量；措施",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "successfully",
+                                        "zh":  "成功地",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "risk",
+                                        "zh":  "风险；冒险",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "curiosity",
+                                        "zh":  "好奇心",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "ambition",
+                                        "zh":  "雄心；野心",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "explorer",
+                                        "zh":  "探险家",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "simply",
+                                        "zh":  "仅仅；简单地",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "risky",
+                                        "zh":  "危险的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "southern",
+                                        "zh":  "南部的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "located",
+                                        "zh":  "位于",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "freshwater",
+                                        "zh":  "淡水的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "type",
+                                        "zh":  "类型",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "attract",
+                                        "zh":  "吸引",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "curious",
+                                        "zh":  "好奇的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "traveller",
+                                        "zh":  "旅行者",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "natural",
+                                        "zh":  "自然的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "reef",
+                                        "zh":  "礁",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "underwater",
+                                        "zh":  "水下的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "northeastern",
+                                        "zh":  "东北的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "coast",
+                                        "zh":  "海岸",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "coral",
+                                        "zh":  "珊瑚",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "include",
+                                        "zh":  "包括",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "sand",
+                                        "zh":  "沙子",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "alive",
+                                        "zh":  "活着的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "structure",
+                                        "zh":  "结构",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "turtle",
+                                        "zh":  "海龟",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "lifetime",
+                                        "zh":  "一生",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Nile River",
+                                        "zh":  "尼罗河",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Angel Falls",
+                                        "zh":  "安赫尔瀑布",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Mount Qomolangma",
+                                        "zh":  "珠穆朗玛峰",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Dead Sea",
+                                        "zh":  "死海",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Sahara Desert",
+                                        "zh":  "撒哈拉沙漠",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Mariana Trench",
+                                        "zh":  "马里亚纳海沟",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Titanic",
+                                        "zh":  "泰坦尼克号",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Yangtze River",
+                                        "zh":  "长江",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Egypt",
+                                        "zh":  "埃及",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Taklimakan Desert",
+                                        "zh":  "塔克拉玛干沙漠",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Mount Kilimanjaro",
+                                        "zh":  "乞力马扎罗山",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Inga Falls",
+                                        "zh":  "英加瀑布",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "East African Rift Valley",
+                                        "zh":  "东非大裂谷",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Victoria Falls",
+                                        "zh":  "维多利亚瀑布",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "George Mallory",
+                                        "zh":  "乔治·马洛里",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Siberia",
+                                        "zh":  "西伯利亚",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Lake Baikal",
+                                        "zh":  "贝加尔湖",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Belgium",
+                                        "zh":  "比利时",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Great Barrier Reef",
+                                        "zh":  "大堡礁",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "u5",
+                      "unitNumber":  5,
+                      "title":  "Unit 5 Nature\u0027s Temper",
+                      "wordCount":  73,
+                      "words":  [
+                                    {
+                                        "en":  "temper",
+                                        "zh":  "脾气；怒气",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "earthquake",
+                                        "zh":  "地震",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "typhoon",
+                                        "zh":  "台风",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "wildfire",
+                                        "zh":  "野火",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "snowstorm",
+                                        "zh":  "暴风雪",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "flood",
+                                        "zh":  "洪水",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "drought",
+                                        "zh":  "旱灾",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "warn",
+                                        "zh":  "警告",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "do chores",
+                                        "zh":  "做家务",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "wave",
+                                        "zh":  "波浪；挥手",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "tsunami",
+                                        "zh":  "海啸",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "interview",
+                                        "zh":  "采访；面试",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "slow down",
+                                        "zh":  "减速",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "neighbourhood",
+                                        "zh":  "街区；附近",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "roof",
+                                        "zh":  "屋顶",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "nearly",
+                                        "zh":  "几乎",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "come off",
+                                        "zh":  "脱落",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "report",
+                                        "zh":  "报道；汇报",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "trouble",
+                                        "zh":  "困难；麻烦",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "relative",
+                                        "zh":  "亲戚",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "truck",
+                                        "zh":  "卡车",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "supply",
+                                        "zh":  "供应",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "preparation",
+                                        "zh":  "准备",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "make preparations",
+                                        "zh":  "做准备",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "power",
+                                        "zh":  "电力；能量",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "soundly",
+                                        "zh":  "酣睡地；彻底地",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "thick",
+                                        "zh":  "厚的；浓密的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "beat",
+                                        "zh":  "敲打；跳动",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "hide",
+                                        "zh":  "躲藏；隐蔽",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "tornado",
+                                        "zh":  "龙卷风",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "worst",
+                                        "zh":  "最坏的；最糟的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "schoolgirl",
+                                        "zh":  "女学生",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "froth",
+                                        "zh":  "泡沫",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "unfortunately",
+                                        "zh":  "不幸地；可惜",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "refuse",
+                                        "zh":  "拒绝",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "security",
+                                        "zh":  "安全；保安",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "guard",
+                                        "zh":  "卫兵；保卫",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "security guard",
+                                        "zh":  "保安",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "nearby",
+                                        "zh":  "附近的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "scream",
+                                        "zh":  "尖叫",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "thankfully",
+                                        "zh":  "幸亏",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "knowledge",
+                                        "zh":  "知识",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "thinking",
+                                        "zh":  "思考；想法",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "as soon as",
+                                        "zh":  "一……就……",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "hero",
+                                        "zh":  "英雄",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "landslide",
+                                        "zh":  "滑坡",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "safeguard",
+                                        "zh":  "保护",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "floodwater",
+                                        "zh":  "洪水",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "manpower",
+                                        "zh":  "劳动力",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "heartbeat",
+                                        "zh":  "心跳",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "rescue",
+                                        "zh":  "救援",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "heatwave",
+                                        "zh":  "热浪",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "southwestern",
+                                        "zh":  "西南的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "firefighter",
+                                        "zh":  "消防员",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "volunteer",
+                                        "zh":  "志愿者；自愿做",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "terribly",
+                                        "zh":  "非常；糟糕地",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "alarm",
+                                        "zh":  "警报；惊恐",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "alarm clock",
+                                        "zh":  "闹钟",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "go off",
+                                        "zh":  "响起",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "review",
+                                        "zh":  "复习；回顾",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "sudden",
+                                        "zh":  "突然的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "all of a sudden",
+                                        "zh":  "突然",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "thunder",
+                                        "zh":  "雷；打雷",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "by the time",
+                                        "zh":  "到……的时候",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "usual",
+                                        "zh":  "通常的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "out of breath",
+                                        "zh":  "上气不接下气",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "rainstorm",
+                                        "zh":  "暴雨",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "as a result",
+                                        "zh":  "结果；因此",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "unlucky",
+                                        "zh":  "不幸的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "Tilly",
+                                        "zh":  "蒂莉",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Phuket",
+                                        "zh":  "普吉岛",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Indonesia",
+                                        "zh":  "印度尼西亚",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Japan",
+                                        "zh":  "日本",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "u6",
+                      "unitNumber":  6,
+                      "title":  "Unit 6 Crossing Cultures",
+                      "wordCount":  70,
+                      "words":  [
+                                    {
+                                        "en":  "shake",
+                                        "zh":  "握手；摇动",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "bow",
+                                        "zh":  "鞠躬",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "bump",
+                                        "zh":  "碰；撞",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "fist",
+                                        "zh":  "拳头",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "rub",
+                                        "zh":  "摩擦；揉",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "kiss",
+                                        "zh":  "亲吻",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "cheek",
+                                        "zh":  "脸颊",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "hug",
+                                        "zh":  "拥抱",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "embarrassed",
+                                        "zh":  "尴尬的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "confused",
+                                        "zh":  "困惑的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "formal",
+                                        "zh":  "正式的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "curry",
+                                        "zh":  "咖喱",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "rude",
+                                        "zh":  "粗鲁的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "uncommon",
+                                        "zh":  "罕见的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "palm",
+                                        "zh":  "手掌",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "namaste",
+                                        "zh":  "合十礼问候语",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "fork",
+                                        "zh":  "叉子",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "Indian",
+                                        "zh":  "印度的；印度人",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "manner",
+                                        "zh":  "方式；礼仪",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "table manners",
+                                        "zh":  "餐桌礼仪",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "confusing",
+                                        "zh":  "令人困惑的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "unless",
+                                        "zh":  "除非；如果不",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "proper",
+                                        "zh":  "恰当的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "sit up",
+                                        "zh":  "坐直",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "elbow",
+                                        "zh":  "肘部",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "serving",
+                                        "zh":  "分菜用的；一份",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "chopstick",
+                                        "zh":  "筷子",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "serving chopsticks",
+                                        "zh":  "公筷",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "surprising",
+                                        "zh":  "令人吃惊的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "embarrassing",
+                                        "zh":  "令人难堪的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "be used to",
+                                        "zh":  "习惯于",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "cultural",
+                                        "zh":  "文化的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "hear from",
+                                        "zh":  "得到……的消息",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "custom",
+                                        "zh":  "习俗",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "occasion",
+                                        "zh":  "场合；重大活动",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "nicely",
+                                        "zh":  "漂亮地；愉快地",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "blouse",
+                                        "zh":  "女衬衫",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "private",
+                                        "zh":  "私人的；注重隐私的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "whether",
+                                        "zh":  "是否",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "married",
+                                        "zh":  "已婚的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "merci",
+                                        "zh":  "谢谢",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "go a long way",
+                                        "zh":  "大有帮助",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "au revoir",
+                                        "zh":  "再见",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "get along",
+                                        "zh":  "相处融洽；进展",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "correct",
+                                        "zh":  "正确的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "unsafe",
+                                        "zh":  "不安全的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "informal",
+                                        "zh":  "非正式的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "improper",
+                                        "zh":  "不合适的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "jeans",
+                                        "zh":  "牛仔裤",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "marry",
+                                        "zh":  "结婚；娶",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "congratulate",
+                                        "zh":  "祝贺",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "Asian",
+                                        "zh":  "亚洲的；亚洲人",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "tradition",
+                                        "zh":  "传统",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "firstly",
+                                        "zh":  "首先",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "secondly",
+                                        "zh":  "其次",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "thirdly",
+                                        "zh":  "第三",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "correctly",
+                                        "zh":  "正确地",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "receive",
+                                        "zh":  "收到",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "sign-off",
+                                        "zh":  "结束语",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "main",
+                                        "zh":  "主要的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "false",
+                                        "zh":  "错误的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "impression",
+                                        "zh":  "印象",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "cheers",
+                                        "zh":  "干杯；再见",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "Ji-Hoon",
+                                        "zh":  "智勋",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Kaito",
+                                        "zh":  "海斗",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Marie",
+                                        "zh":  "玛丽",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Mexico",
+                                        "zh":  "墨西哥",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Peru",
+                                        "zh":  "秘鲁",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Germany",
+                                        "zh":  "德国",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Paris",
+                                        "zh":  "巴黎",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "u7",
+                      "unitNumber":  7,
+                      "title":  "Unit 7 A Good Read",
+                      "wordCount":  87,
+                      "words":  [
+                                    {
+                                        "en":  "a good read",
+                                        "zh":  "好书",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "adventure",
+                                        "zh":  "冒险",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "fantasy",
+                                        "zh":  "幻想作品",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "mystery",
+                                        "zh":  "悬疑小说；神秘的事物",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "fiction",
+                                        "zh":  "小说",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "detective",
+                                        "zh":  "侦探",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "alien",
+                                        "zh":  "外星人",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "attack",
+                                        "zh":  "攻击",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "hear of",
+                                        "zh":  "听说；得知",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "kingdom",
+                                        "zh":  "王国",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "historical",
+                                        "zh":  "历史的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "force",
+                                        "zh":  "强迫；力量",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "steal",
+                                        "zh":  "偷",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "punish",
+                                        "zh":  "惩罚",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "idiom",
+                                        "zh":  "习语；成语",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "recently",
+                                        "zh":  "最近",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "lost",
+                                        "zh":  "迷路的；丢失的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "get lost",
+                                        "zh":  "迷路",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "recommend",
+                                        "zh":  "推荐；建议",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "society",
+                                        "zh":  "社会；社团",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "literary",
+                                        "zh":  "文学的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "base",
+                                        "zh":  "基础；据点",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "summary",
+                                        "zh":  "总结",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "spoiled",
+                                        "zh":  "被宠坏的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "selfish",
+                                        "zh":  "自私的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "painful",
+                                        "zh":  "痛苦的；疼痛的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "lock",
+                                        "zh":  "锁；锁上",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "lock up",
+                                        "zh":  "锁好门",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "unlock",
+                                        "zh":  "开锁；揭开",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "hidden",
+                                        "zh":  "隐藏的；秘密的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "nobody",
+                                        "zh":  "没有人",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "therefore",
+                                        "zh":  "因此",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "state",
+                                        "zh":  "状态；国家",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "weak",
+                                        "zh":  "虚弱的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "since",
+                                        "zh":  "自从；既然",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "secretly",
+                                        "zh":  "秘密地",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "prove",
+                                        "zh":  "证明",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "day by day",
+                                        "zh":  "一天天地",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "build-up",
+                                        "zh":  "准备过程",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "climax",
+                                        "zh":  "高潮",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "effect",
+                                        "zh":  "影响；结果",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "in time",
+                                        "zh":  "及时",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "reader",
+                                        "zh":  "读者；简易读物",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "librarian",
+                                        "zh":  "图书管理员",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "consider",
+                                        "zh":  "考虑；认为",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "enemy",
+                                        "zh":  "敌人",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "naughty",
+                                        "zh":  "淘气的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "gentle",
+                                        "zh":  "温柔的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "defeat",
+                                        "zh":  "击败",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "basic",
+                                        "zh":  "基本的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "recommendation",
+                                        "zh":  "推荐",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "American",
+                                        "zh":  "美国的；美国人",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "bone",
+                                        "zh":  "骨头",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "doubt",
+                                        "zh":  "怀疑",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "inspire",
+                                        "zh":  "激励",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "destroy",
+                                        "zh":  "摧毁",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "introduction",
+                                        "zh":  "介绍；序言",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "Journey to the West",
+                                        "zh":  "《西游记》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Harry Potter and the Philosopher\u0027s Stone",
+                                        "zh":  "《哈利·波特与魔法石》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "The Time Machine",
+                                        "zh":  "《时间机器》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "The Final Problem",
+                                        "zh":  "《最后一案》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "The Three-Body Problem",
+                                        "zh":  "《三体》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Around the World in Eighty Days",
+                                        "zh":  "《八十天环游地球》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Sherlock Holmes",
+                                        "zh":  "夏洛克·福尔摩斯",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "The Romance of the Three Kingdoms",
+                                        "zh":  "《三国演义》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Oliver Twist",
+                                        "zh":  "《雾都孤儿》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Charles Dickens",
+                                        "zh":  "查尔斯·狄更斯",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Alice\u0027s Adventures in Wonderland",
+                                        "zh":  "《爱丽丝梦游仙境》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Lewis Carroll",
+                                        "zh":  "刘易斯·卡罗尔",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "The Little Prince",
+                                        "zh":  "《小王子》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "The Little Match Girl",
+                                        "zh":  "《卖火柴的小女孩》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Outlaws of the Marsh",
+                                        "zh":  "《水浒传》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "The Adventures of Tom Sawyer",
+                                        "zh":  "《汤姆·索亚历险记》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "My Childhood",
+                                        "zh":  "《童年》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "The Wonderful Wizard of Oz",
+                                        "zh":  "《绿野仙踪》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "A Dream of Red Mansions",
+                                        "zh":  "《红楼梦》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Treasure Island",
+                                        "zh":  "《金银岛》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Red Star over China",
+                                        "zh":  "《红星照耀中国》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "The Secret Garden",
+                                        "zh":  "《秘密花园》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Frances Hodgson Burnett",
+                                        "zh":  "弗朗西丝·霍奇森·伯内特",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Lennox",
+                                        "zh":  "伦诺克斯",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Craven",
+                                        "zh":  "克雷文",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Dickon",
+                                        "zh":  "迪康",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Colin",
+                                        "zh":  "科林",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "The Old Man and the Sea",
+                                        "zh":  "《老人与海》",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Ernest Hemingway",
+                                        "zh":  "欧内斯特·海明威",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Pulitzer Prize",
+                                        "zh":  "普利策奖",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "u8",
+                      "unitNumber":  8,
+                      "title":  "Unit 8 Making a Difference",
+                      "wordCount":  60,
+                      "words":  [
+                                    {
+                                        "en":  "make a difference",
+                                        "zh":  "起作用；有影响",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "visitor",
+                                        "zh":  "游客；来访者",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "elderly",
+                                        "zh":  "年长的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "the elderly",
+                                        "zh":  "老年人",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "organization",
+                                        "zh":  "组织",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "stadium",
+                                        "zh":  "体育场",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "provide",
+                                        "zh":  "提供",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "can",
+                                        "zh":  "罐头",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "owner",
+                                        "zh":  "主人；所有者",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "cage",
+                                        "zh":  "笼子",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "donation",
+                                        "zh":  "捐赠",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "shelter",
+                                        "zh":  "庇护所",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "interviewer",
+                                        "zh":  "面试官；采访者",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "youth",
+                                        "zh":  "青年；青春",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "nursing home",
+                                        "zh":  "养老院",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "active",
+                                        "zh":  "积极的；活跃的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "come along",
+                                        "zh":  "跟着来",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "army",
+                                        "zh":  "军队",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "soldier",
+                                        "zh":  "士兵",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "primary",
+                                        "zh":  "小学的；首要的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "help out",
+                                        "zh":  "帮忙",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "charity",
+                                        "zh":  "慈善机构",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "warmly",
+                                        "zh":  "热情地；温暖地",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "lady",
+                                        "zh":  "女士",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "gentleman",
+                                        "zh":  "先生；君子",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "bark",
+                                        "zh":  "吠叫",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "sign up",
+                                        "zh":  "报名",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "ever since",
+                                        "zh":  "自从",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "adult",
+                                        "zh":  "成年人",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "missing",
+                                        "zh":  "失踪的；丢失的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "practical",
+                                        "zh":  "实用的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "life-saving",
+                                        "zh":  "救命的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "teamwork",
+                                        "zh":  "团队合作",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "successful",
+                                        "zh":  "成功的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "most of all",
+                                        "zh":  "最重要的是",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "value",
+                                        "zh":  "价值",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "voluntary",
+                                        "zh":  "自愿的；无偿的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "ordinary",
+                                        "zh":  "普通的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "worth",
+                                        "zh":  "值得",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "audience",
+                                        "zh":  "观众；听众",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "willing",
+                                        "zh":  "愿意的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "on the go",
+                                        "zh":  "忙碌中",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "in need",
+                                        "zh":  "需要帮助的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "completely",
+                                        "zh":  "完全地",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "success",
+                                        "zh":  "成功",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "elder",
+                                        "zh":  "年长的",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "donate",
+                                        "zh":  "捐赠",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "pocket",
+                                        "zh":  "口袋",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "pocket money",
+                                        "zh":  "零花钱",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "effort",
+                                        "zh":  "努力",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "hand out",
+                                        "zh":  "分发",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "familiar with",
+                                        "zh":  "熟悉",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "etc",
+                                        "zh":  "等等",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "talent",
+                                        "zh":  "才能；天赋",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "madam",
+                                        "zh":  "女士；夫人",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "advertisement",
+                                        "zh":  "广告",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "Robert",
+                                        "zh":  "罗伯特",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Argentina",
+                                        "zh":  "阿根廷",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Blue Sky Rescue",
+                                        "zh":  "蓝天救援队",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Philippines",
+                                        "zh":  "菲律宾",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  }
+              ]
+}

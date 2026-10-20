@@ -1,0 +1,907 @@
+﻿{
+    "id":  "flyabc_5b",
+    "flyabcId":  "5b",
+    "title":  "人教版 PEP 小学英语 · 五年级下册 (2024新版)",
+    "shortName":  "五年级下册",
+    "stage":  "primary",
+    "grade":  5,
+    "edition":  "2024",
+    "unitCount":  6,
+    "wordCount":  141,
+    "units":  [
+                  {
+                      "id":  "u1",
+                      "unitNumber":  1,
+                      "title":  "Unit 1 Following the rules",
+                      "wordCount":  16,
+                      "words":  [
+                                    {
+                                        "en":  "must",
+                                        "zh":  "必须",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "sir",
+                                        "zh":  "先生",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "inside",
+                                        "zh":  "在…里面",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "scare",
+                                        "zh":  "惊吓；使害怕",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "password",
+                                        "zh":  "密码",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "line",
+                                        "zh":  "队伍；线",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "wait",
+                                        "zh":  "等待",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "guard",
+                                        "zh":  "门卫；看守",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "stand",
+                                        "zh":  "站",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "shout",
+                                        "zh":  "大声喊",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "smoke",
+                                        "zh":  "吸烟",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "flash",
+                                        "zh":  "闪光灯",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "open",
+                                        "zh":  "打开；开放",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "return",
+                                        "zh":  "归还；返回",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "borrow",
+                                        "zh":  "借",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "write",
+                                        "zh":  "写",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "u2",
+                      "unitNumber":  2,
+                      "title":  "Unit 2 Our community",
+                      "wordCount":  27,
+                      "words":  [
+                                    {
+                                        "en":  "along",
+                                        "zh":  "沿着",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "street",
+                                        "zh":  "街道",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "station",
+                                        "zh":  "局；站",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "next",
+                                        "zh":  "紧邻",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "far",
+                                        "zh":  "远的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "cinema",
+                                        "zh":  "电影院",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "between",
+                                        "zh":  "在…之间",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "city",
+                                        "zh":  "城市",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "behind",
+                                        "zh":  "在…后面",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "left",
+                                        "zh":  "左边；向左",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "teach",
+                                        "zh":  "教",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "litter",
+                                        "zh":  "垃圾",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "recycle",
+                                        "zh":  "回收利用",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "taxi",
+                                        "zh":  "出租车",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "traffic",
+                                        "zh":  "交通",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "direct",
+                                        "zh":  "指路；指挥",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "artist",
+                                        "zh":  "艺术家",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "Ms",
+                                        "zh":  "女士",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "scientist",
+                                        "zh":  "科学家",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "volunteer",
+                                        "zh":  "志愿者",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "live",
+                                        "zh":  "居住",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "train",
+                                        "zh":  "火车",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "lost",
+                                        "zh":  "迷路的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "sign",
+                                        "zh":  "标志",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "note",
+                                        "zh":  "便条",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "foreign",
+                                        "zh":  "外国的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "visitor",
+                                        "zh":  "游客",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "u3",
+                      "unitNumber":  3,
+                      "title":  "Unit 3 Life in different seasons",
+                      "wordCount":  32,
+                      "words":  [
+                                    {
+                                        "en":  "January",
+                                        "zh":  "一月",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "February",
+                                        "zh":  "二月",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "skate",
+                                        "zh":  "滑冰",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "holiday",
+                                        "zh":  "假期",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "March",
+                                        "zh":  "三月",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "April",
+                                        "zh":  "四月",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "May",
+                                        "zh":  "五月",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "June",
+                                        "zh":  "六月",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "party",
+                                        "zh":  "聚会",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "celebrate",
+                                        "zh":  "庆祝",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "December",
+                                        "zh":  "十二月",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "Christmas",
+                                        "zh":  "圣诞节",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "turkey",
+                                        "zh":  "火鸡",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "July",
+                                        "zh":  "七月",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "August",
+                                        "zh":  "八月",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "September",
+                                        "zh":  "九月",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "October",
+                                        "zh":  "十月",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "November",
+                                        "zh":  "十一月",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "country",
+                                        "zh":  "国家",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "sit",
+                                        "zh":  "坐",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "beside",
+                                        "zh":  "在…旁边",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "west",
+                                        "zh":  "西方",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "cup",
+                                        "zh":  "杯子；一杯",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "sunshine",
+                                        "zh":  "阳光",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "catch",
+                                        "zh":  "接住；捕捉",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "ago",
+                                        "zh":  "以前",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "ice",
+                                        "zh":  "冰",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Labour Day",
+                                        "zh":  "劳动节",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Dragon Boat Festival",
+                                        "zh":  "端午节",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "CPC Founding Day",
+                                        "zh":  "建党节",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "PLA Day",
+                                        "zh":  "建军节",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "National Day",
+                                        "zh":  "国庆节",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "u4",
+                      "unitNumber":  4,
+                      "title":  "Unit 4 My hometown",
+                      "wordCount":  30,
+                      "words":  [
+                                    {
+                                        "en":  "hometown",
+                                        "zh":  "家乡",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "its",
+                                        "zh":  "它的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "common",
+                                        "zh":  "共同的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "beach",
+                                        "zh":  "海滩",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "desert",
+                                        "zh":  "沙漠",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "grassland",
+                                        "zh":  "草原",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "special",
+                                        "zh":  "特别的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "wild",
+                                        "zh":  "野生的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "kangaroo",
+                                        "zh":  "袋鼠",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "koala",
+                                        "zh":  "考拉",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "wish",
+                                        "zh":  "希望",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "could",
+                                        "zh":  "可以；可能",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "high",
+                                        "zh":  "高的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "island",
+                                        "zh":  "岛",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "travel",
+                                        "zh":  "旅行",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "feel like",
+                                        "zh":  "感觉像",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "middle",
+                                        "zh":  "中间",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "painting",
+                                        "zh":  "绘画；油画",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "pyramid",
+                                        "zh":  "金字塔",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "ride",
+                                        "zh":  "骑",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "camel",
+                                        "zh":  "骆驼",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "even",
+                                        "zh":  "甚至",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Confucius",
+                                        "zh":  "孔子",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Beijing opera",
+                                        "zh":  "京剧",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "Mount Taishan",
+                                        "zh":  "泰山",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "India",
+                                        "zh":  "印度",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Italy",
+                                        "zh":  "意大利",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "Britain",
+                                        "zh":  "不列颠",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "Cairo",
+                                        "zh":  "开罗",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Hawaii",
+                                        "zh":  "夏威夷",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "u5",
+                      "unitNumber":  5,
+                      "title":  "Unit 5 Travelling around",
+                      "wordCount":  15,
+                      "words":  [
+                                    {
+                                        "en":  "early",
+                                        "zh":  "早的；提前的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "underground",
+                                        "zh":  "地铁",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "bike",
+                                        "zh":  "自行车",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "foot",
+                                        "zh":  "脚",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "on foot",
+                                        "zh":  "步行",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "plane",
+                                        "zh":  "飞机",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "ship",
+                                        "zh":  "轮船",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "hurt",
+                                        "zh":  "伤害；疼痛",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "environment",
+                                        "zh":  "环境",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "tip",
+                                        "zh":  "提示",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "health",
+                                        "zh":  "健康",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "carry",
+                                        "zh":  "运送；承载",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "finally",
+                                        "zh":  "最后；终于",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "suggest",
+                                        "zh":  "建议",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "everyday",
+                                        "zh":  "每天的；日常的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "u6",
+                      "unitNumber":  6,
+                      "title":  "Unit 6 Making a travel plan",
+                      "wordCount":  21,
+                      "words":  [
+                                    {
+                                        "en":  "internet",
+                                        "zh":  "互联网",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "seafood",
+                                        "zh":  "海鲜",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "maybe",
+                                        "zh":  "也许",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "join",
+                                        "zh":  "参加；加入",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "hill",
+                                        "zh":  "小山",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "explore",
+                                        "zh":  "探索",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "culture",
+                                        "zh":  "文化",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "hot pot",
+                                        "zh":  "火锅",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "tour",
+                                        "zh":  "旅游",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "local",
+                                        "zh":  "当地的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "history",
+                                        "zh":  "历史",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "plan",
+                                        "zh":  "计划",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "app",
+                                        "zh":  "应用软件",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "information",
+                                        "zh":  "信息",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "blog",
+                                        "zh":  "博客",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "magazine",
+                                        "zh":  "杂志",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "northeast",
+                                        "zh":  "东北",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "building",
+                                        "zh":  "建筑物",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "palace",
+                                        "zh":  "宫殿",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "stone",
+                                        "zh":  "石头",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "last",
+                                        "zh":  "最后的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  }
+              ]
+}

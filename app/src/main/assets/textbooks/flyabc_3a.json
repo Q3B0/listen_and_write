@@ -1,0 +1,709 @@
+﻿{
+    "id":  "flyabc_3a",
+    "flyabcId":  "3a",
+    "title":  "人教版 PEP 小学英语 · 三年级上册 (2024新版)",
+    "shortName":  "三年级上册",
+    "stage":  "primary",
+    "grade":  3,
+    "edition":  "2024",
+    "unitCount":  6,
+    "wordCount":  108,
+    "units":  [
+                  {
+                      "id":  "u1",
+                      "unitNumber":  1,
+                      "title":  "Unit 1 Making friends",
+                      "wordCount":  15,
+                      "words":  [
+                                    {
+                                        "en":  "name",
+                                        "zh":  "名字",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "nice",
+                                        "zh":  "好的；友好的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "ear",
+                                        "zh":  "耳朵",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "hand",
+                                        "zh":  "手",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "eye",
+                                        "zh":  "眼睛",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "mouth",
+                                        "zh":  "嘴",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "arm",
+                                        "zh":  "胳膊",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "can",
+                                        "zh":  "能；会",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "share",
+                                        "zh":  "分享",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "smile",
+                                        "zh":  "微笑",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "listen",
+                                        "zh":  "听",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "help",
+                                        "zh":  "帮助",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "say",
+                                        "zh":  "说",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "friend",
+                                        "zh":  "朋友",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "good",
+                                        "zh":  "好的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "u2",
+                      "unitNumber":  2,
+                      "title":  "Unit 2 Different families",
+                      "wordCount":  19,
+                      "words":  [
+                                    {
+                                        "en":  "mum",
+                                        "zh":  "妈妈",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "dad",
+                                        "zh":  "爸爸",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "grandma",
+                                        "zh":  "奶奶；外婆",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "grandpa",
+                                        "zh":  "爷爷；外公",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "grandfather",
+                                        "zh":  "祖父；外公",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "grandmother",
+                                        "zh":  "祖母；外婆",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "mother",
+                                        "zh":  "母亲",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "father",
+                                        "zh":  "父亲",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "me",
+                                        "zh":  "我",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "sister",
+                                        "zh":  "姐姐；妹妹",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "family",
+                                        "zh":  "家；家庭",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "have",
+                                        "zh":  "有",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "big",
+                                        "zh":  "大的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "cousin",
+                                        "zh":  "堂（表）兄弟姐妹",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "brother",
+                                        "zh":  "哥哥；弟弟",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "baby",
+                                        "zh":  "婴儿",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "uncle",
+                                        "zh":  "叔叔；舅舅",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "aunt",
+                                        "zh":  "阿姨；姑姑",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "small",
+                                        "zh":  "小的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "u3",
+                      "unitNumber":  3,
+                      "title":  "Unit 3 Our animal friends",
+                      "wordCount":  22,
+                      "words":  [
+                                    {
+                                        "en":  "like",
+                                        "zh":  "喜欢",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "dog",
+                                        "zh":  "狗",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "pet",
+                                        "zh":  "宠物",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "cat",
+                                        "zh":  "猫",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "fish",
+                                        "zh":  "鱼",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "bird",
+                                        "zh":  "鸟",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "rabbit",
+                                        "zh":  "兔子",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "go",
+                                        "zh":  "去",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "zoo",
+                                        "zh":  "动物园",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "fox",
+                                        "zh":  "狐狸",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "Miss",
+                                        "zh":  "小姐；老师",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "panda",
+                                        "zh":  "熊猫",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "red panda",
+                                        "zh":  "小熊猫",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "cute",
+                                        "zh":  "可爱的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "monkey",
+                                        "zh":  "猴子",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "tiger",
+                                        "zh":  "老虎",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "elephant",
+                                        "zh":  "大象",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "lion",
+                                        "zh":  "狮子",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "animal",
+                                        "zh":  "动物",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "giraffe",
+                                        "zh":  "长颈鹿",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "tall",
+                                        "zh":  "高的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "fast",
+                                        "zh":  "快的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "u4",
+                      "unitNumber":  4,
+                      "title":  "Unit 4 Plants around us",
+                      "wordCount":  19,
+                      "words":  [
+                                    {
+                                        "en":  "apple",
+                                        "zh":  "苹果",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "banana",
+                                        "zh":  "香蕉",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "farm",
+                                        "zh":  "农场",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "air",
+                                        "zh":  "空气",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "orange",
+                                        "zh":  "橙子",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "grape",
+                                        "zh":  "葡萄",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "school",
+                                        "zh":  "学校",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "garden",
+                                        "zh":  "花园",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "need",
+                                        "zh":  "需要",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "water",
+                                        "zh":  "浇水；水",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "flower",
+                                        "zh":  "花",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "grass",
+                                        "zh":  "草",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "plant",
+                                        "zh":  "种植；植物",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "new",
+                                        "zh":  "新的",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "tree",
+                                        "zh":  "树",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "sun",
+                                        "zh":  "太阳",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "give",
+                                        "zh":  "给",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "us",
+                                        "zh":  "我们",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "them",
+                                        "zh":  "他们（宾格）",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "u5",
+                      "unitNumber":  5,
+                      "title":  "Unit 5 The colourful world",
+                      "wordCount":  17,
+                      "words":  [
+                                    {
+                                        "en":  "colour",
+                                        "zh":  "颜色",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "orange",
+                                        "zh":  "橙色",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "green",
+                                        "zh":  "绿色",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "red",
+                                        "zh":  "红色",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "blue",
+                                        "zh":  "蓝色",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "make",
+                                        "zh":  "做；制作",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "purple",
+                                        "zh":  "紫色",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "brown",
+                                        "zh":  "棕色",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "bear",
+                                        "zh":  "熊",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "yellow",
+                                        "zh":  "黄色",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "duck",
+                                        "zh":  "鸭子",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "sea",
+                                        "zh":  "大海",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "some",
+                                        "zh":  "一些",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "pink",
+                                        "zh":  "粉色",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "draw",
+                                        "zh":  "画",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "white",
+                                        "zh":  "白色",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "black",
+                                        "zh":  "黑色",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "u6",
+                      "unitNumber":  6,
+                      "title":  "Unit 6 Useful numbers",
+                      "wordCount":  16,
+                      "words":  [
+                                    {
+                                        "en":  "old",
+                                        "zh":  "年老的；…岁",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "five",
+                                        "zh":  "五",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "year",
+                                        "zh":  "年；岁",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "one",
+                                        "zh":  "一",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "two",
+                                        "zh":  "二",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "three",
+                                        "zh":  "三",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "four",
+                                        "zh":  "四",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "ten",
+                                        "zh":  "十",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "six",
+                                        "zh":  "六",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "seven",
+                                        "zh":  "七",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "eight",
+                                        "zh":  "八",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "nine",
+                                        "zh":  "九",
+                                        "phonetic":  "",
+                                        "isCore":  true
+                                    },
+                                    {
+                                        "en":  "o\u0027clock",
+                                        "zh":  "…点钟",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "cut",
+                                        "zh":  "切",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "eat",
+                                        "zh":  "吃",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    },
+                                    {
+                                        "en":  "cake",
+                                        "zh":  "蛋糕",
+                                        "phonetic":  "",
+                                        "isCore":  false
+                                    }
+                                ]
+                  }
+              ]
+}

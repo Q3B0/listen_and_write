@@ -1,0 +1,66 @@
+{
+  "title": "小学英语高频易错 50 词",
+  "description": "精选小学阶段核心动词、家庭称谓与动物名词",
+  "words": [
+    {
+      "word": "family",
+      "phonetic": "['fæməli]",
+      "translation": "家庭，家人",
+      "unit": "Unit 2"
+    },
+    {
+      "word": "teacher",
+      "phonetic": "[ˈtiːtʃə(r)]",
+      "translation": "老师",
+      "unit": "Unit 1"
+    },
+    {
+      "word": "student",
+      "phonetic": "[ˈstjuːdnt]",
+      "translation": "学生",
+      "unit": "Unit 1"
+    },
+    {
+      "word": "giraffe",
+      "phonetic": "[dʒəˈrɑːf]",
+      "translation": "长颈鹿",
+      "unit": "Unit 3"
+    },
+    {
+      "word": "zoo",
+      "phonetic": "[zuː]",
+      "translation": "动物园",
+      "unit": "Unit 3"
+    },
+    {
+      "word": "pear",
+      "phonetic": "[peə(r)]",
+      "translation": "梨",
+      "unit": "Unit 5"
+    },
+    {
+      "word": "watermelon",
+      "phonetic": "[ˈwɔːtəmelən]",
+      "translation": "西瓜",
+      "unit": "Unit 5"
+    },
+    {
+      "word": "friend",
+      "phonetic": "[frend]",
+      "translation": "朋友",
+      "unit": "Unit 1"
+    },
+    {
+      "word": "banana",
+      "phonetic": "[bəˈnɑːnə]",
+      "translation": "香蕉",
+      "unit": "Unit 5"
+    },
+    {
+      "word": "beautiful",
+      "phonetic": "[ˈbjuːtɪfl]",
+      "translation": "美丽的",
+      "unit": "Unit 6"
+    }
+  ]
+}

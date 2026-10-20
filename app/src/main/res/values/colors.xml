@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_blue">#2388F8</color>
+    <color name="primary_dark_blue">#1673E6</color>
+    <color name="page_background">#F7FAFE</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="light_blue_bg">#EAF4FF</color>
+    <color name="ic_launcher_background">#2388F8</color>
+</resources>

@@ -1,0 +1,182 @@
+﻿{
+    "description":  "萤光小语 flyabc.fun 全量人教版英语词库（2024新版小学 + 初中 + 高中）",
+    "source":  "https://flyabc.fun/words/",
+    "stages":  [
+                   "primary",
+                   "junior",
+                   "senior"
+               ],
+    "books":  [
+                  {
+                      "id":  "flyabc_3a",
+                      "flyabcId":  "3a",
+                      "title":  "人教版 PEP 小学英语 · 三年级上册 (2024新版)",
+                      "stage":  "primary",
+                      "grade":  3,
+                      "words":  108,
+                      "units":  6
+                  },
+                  {
+                      "id":  "flyabc_3b",
+                      "flyabcId":  "3b",
+                      "title":  "人教版 PEP 小学英语 · 三年级下册 (2024新版)",
+                      "stage":  "primary",
+                      "grade":  3,
+                      "words":  115,
+                      "units":  6
+                  },
+                  {
+                      "id":  "flyabc_4a",
+                      "flyabcId":  "4a",
+                      "title":  "人教版 PEP 小学英语 · 四年级上册 (2024新版)",
+                      "stage":  "primary",
+                      "grade":  4,
+                      "words":  110,
+                      "units":  6
+                  },
+                  {
+                      "id":  "flyabc_4b",
+                      "flyabcId":  "4b",
+                      "title":  "人教版 PEP 小学英语 · 四年级下册 (2024新版)",
+                      "stage":  "primary",
+                      "grade":  4,
+                      "words":  111,
+                      "units":  6
+                  },
+                  {
+                      "id":  "flyabc_5a",
+                      "flyabcId":  "5a",
+                      "title":  "人教版 PEP 小学英语 · 五年级上册 (2024新版)",
+                      "stage":  "primary",
+                      "grade":  5,
+                      "words":  119,
+                      "units":  6
+                  },
+                  {
+                      "id":  "flyabc_5b",
+                      "flyabcId":  "5b",
+                      "title":  "人教版 PEP 小学英语 · 五年级下册 (2024新版)",
+                      "stage":  "primary",
+                      "grade":  5,
+                      "words":  141,
+                      "units":  6
+                  },
+                  {
+                      "id":  "flyabc_6a",
+                      "flyabcId":  "6a",
+                      "title":  "人教版 PEP 小学英语 · 六年级上册 (2024新版)",
+                      "stage":  "primary",
+                      "grade":  6,
+                      "words":  144,
+                      "units":  6
+                  },
+                  {
+                      "id":  "flyabc_7a",
+                      "flyabcId":  "7a",
+                      "title":  "人教版初中英语 · 七年级上册",
+                      "stage":  "junior",
+                      "grade":  7,
+                      "words":  327,
+                      "units":  10
+                  },
+                  {
+                      "id":  "flyabc_7b",
+                      "flyabcId":  "7b",
+                      "title":  "人教版初中英语 · 七年级下册",
+                      "stage":  "junior",
+                      "grade":  7,
+                      "words":  459,
+                      "units":  8
+                  },
+                  {
+                      "id":  "flyabc_8a",
+                      "flyabcId":  "8a",
+                      "title":  "人教版初中英语 · 八年级上册",
+                      "stage":  "junior",
+                      "grade":  8,
+                      "words":  530,
+                      "units":  8
+                  },
+                  {
+                      "id":  "flyabc_8b",
+                      "flyabcId":  "8b",
+                      "title":  "人教版初中英语 · 八年级下册",
+                      "stage":  "junior",
+                      "grade":  8,
+                      "words":  593,
+                      "units":  8
+                  },
+                  {
+                      "id":  "flyabc_9a",
+                      "flyabcId":  "9a",
+                      "title":  "人教版初中英语 · 九年级上册",
+                      "stage":  "junior",
+                      "grade":  9,
+                      "words":  470,
+                      "units":  8
+                  },
+                  {
+                      "id":  "flyabc_h1",
+                      "flyabcId":  "h1",
+                      "title":  "人教版高中英语 · 必修第一册",
+                      "stage":  "senior",
+                      "grade":  10,
+                      "words":  325,
+                      "units":  6
+                  },
+                  {
+                      "id":  "flyabc_h2",
+                      "flyabcId":  "h2",
+                      "title":  "人教版高中英语 · 必修第二册",
+                      "stage":  "senior",
+                      "grade":  10,
+                      "words":  344,
+                      "units":  5
+                  },
+                  {
+                      "id":  "flyabc_h3",
+                      "flyabcId":  "h3",
+                      "title":  "人教版高中英语 · 必修第三册",
+                      "stage":  "senior",
+                      "grade":  10,
+                      "words":  384,
+                      "units":  5
+                  },
+                  {
+                      "id":  "flyabc_hx1",
+                      "flyabcId":  "hx1",
+                      "title":  "人教版高中英语 · 选择性必修第一册",
+                      "stage":  "senior",
+                      "grade":  11,
+                      "words":  343,
+                      "units":  5
+                  },
+                  {
+                      "id":  "flyabc_hx2",
+                      "flyabcId":  "hx2",
+                      "title":  "人教版高中英语 · 选择性必修第二册",
+                      "stage":  "senior",
+                      "grade":  11,
+                      "words":  339,
+                      "units":  5
+                  },
+                  {
+                      "id":  "flyabc_hx3",
+                      "flyabcId":  "hx3",
+                      "title":  "人教版高中英语 · 选择性必修第三册",
+                      "stage":  "senior",
+                      "grade":  11,
+                      "words":  305,
+                      "units":  5
+                  },
+                  {
+                      "id":  "flyabc_hx4",
+                      "flyabcId":  "hx4",
+                      "title":  "人教版高中英语 · 选择性必修第四册",
+                      "stage":  "senior",
+                      "grade":  11,
+                      "words":  291,
+                      "units":  5
+                  }
+              ]
+}
